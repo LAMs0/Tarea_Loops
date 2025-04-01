@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+=======
+      <module fileurl="file://$PROJECT_DIR$/Programacion-master/Programacion-master.iml" filepath="$PROJECT_DIR$/Programacion-master/Programacion-master.iml" />
+>>>>>>> e50f7010a8d0dc326c6ca64dfe8dabab9a237dd5
       <module fileurl="file://$PROJECT_DIR$/.idea/Tarea_Loops.iml" filepath="$PROJECT_DIR$/.idea/Tarea_Loops.iml" />
     </modules>
   </component>
